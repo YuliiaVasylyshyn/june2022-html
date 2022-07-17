@@ -1,0 +1,22 @@
+body{
+background: lightpink;
+}
+p{
+    color: darkred;
+}
+ul{
+    color: darkred;
+}
+a{
+    color: firebrick;
+    text-decoration: none;
+}
+h1{
+    color: darkred;
+}
+h2{
+    background: cornflowerblue;
+}
+img{
+    width: 300px;
+}

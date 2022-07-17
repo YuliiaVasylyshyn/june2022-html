@@ -1,0 +1,42 @@
+body {
+    color: white;
+    font-size: 30px;
+    font-family: fantasy, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.father {
+    width: 800px;
+    height: 700px;
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+}
+.header {
+    background: darkturquoise;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content {
+    display: flex;
+    justify-content: space-between;
+}
+.footer {
+    background: darkturquoise;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.block {
+    height: 250px;
+    width: 250px;
+    background: darkseagreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

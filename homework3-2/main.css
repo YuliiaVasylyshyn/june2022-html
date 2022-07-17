@@ -1,0 +1,57 @@
+.father {
+    width: 1000px;
+    height: 700px;
+    border: 1px solid red;
+    margin: 0 auto;
+}
+.header {
+    background: silver;
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.icon {
+    background: hotpink;
+    width: 200px;
+    height: 50px;
+    margin-left: 50px;
+    border-radius: 10px;
+}
+.nav {
+    width: 100px;
+    height: 50px;
+    margin-right: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 40px;
+    color: hotpink;
+
+}
+.content {
+    background: cornflowerblue;
+    height: 300px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+.box-father {
+    width: 800px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    bottom: -75px;
+}
+.box {
+    width: 150px;
+    height: 150px;
+    background: hotpink;
+    border-radius: 40px;
+}
+.footer {
+    background: silver;
+    height: 250px;
+
+}
